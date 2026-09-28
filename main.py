@@ -7,6 +7,10 @@ import time
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from io import BytesIO
+st.set_page_config(
+    page_title="FeedPulse",        
+    page_icon="📊",               
+    layout="wide"
 
 # Define the HTTP client
 client = httpx.Client(
