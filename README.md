@@ -21,19 +21,6 @@ This tool was built as part of **Smart India Hackathon 2024** to tackle a proble
 
 problem statement id - 1743,  [Press here to find the problem statement](https://www.sih.gov.in/sih2024PS?technology_bucket=Nw==&category=U29mdHdhcmU=&organization=QWxs&organization_type=QWxs).
 
----
-
-## Team
-
-We are a diverse team of 6 individuals working together to bring this idea to life!
-
-- **Team Members**: 
-    [ManChan](https://www.linkedin.com/in/manvith-kumar-b47108205/),
-    Abhinav,
-    Aishik,
-    Kaushal,
-    Nidhi,
-    Prerna, 
 
 ---
 
@@ -45,11 +32,5 @@ Feel free to reach out with any suggestions or contributions. Together, we can m
 
 ---
 
-## Contact
-
-For any questions or feedback, please feel free to reach out at:  
-**Mahdi Manchan** - [Email](mailto:sanisettykumarBCS0217@iiitkottayam.ac.in)
-
----
 
 Thank you for checking out our project! 😊
