@@ -11,6 +11,7 @@ st.set_page_config(
     page_title="FeedPulse",        
     page_icon="📊",               
     layout="wide"
+)
 
 # Define the HTTP client
 client = httpx.Client(
